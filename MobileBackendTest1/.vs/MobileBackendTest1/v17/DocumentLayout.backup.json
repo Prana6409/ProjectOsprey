@@ -1,0 +1,829 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\sportsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\sportsmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\sportsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\sportsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\businessownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\businessownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\functionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\businessowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\businessowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\centralizeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\centralizeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\entertainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\entertainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\businessownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\businessownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\userpartnership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\userpartnership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\sportsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\sportsmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\partnershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\partnershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\paternshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\paternshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\counterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\counterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\controllers\\userpartnershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\controllers\\userpartnershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\rsvps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\rsvps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\mobilebackendtest1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\mobilebackendtest1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\partnership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\partnership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\patnershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\patnershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\services\\mongodbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\services\\mongodbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|c:\\users\\ranap\\source\\repos\\mobilebackendtest1\\mobilebackendtest1\\mobilebackendtest1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9A90DA1-16D1-4DDF-870D-E6ED64B0E5E8}|MobileBackendTest1\\MobileBackendTest1.csproj|solutionrelative:mobilebackendtest1\\mobilebackendtest1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\FunctionService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\FunctionService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\FunctionService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\FunctionService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAzwHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:46:21.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entertainer.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Entertainer.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Entertainer.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Entertainer.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Entertainer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:50:37.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\User.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:57:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Content.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Content.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Content.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Content.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:31:43.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sportsman.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Sportsman.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Sportsman.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Sportsman.cs*",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Sportsman.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:43:49.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Event.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Event.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:47:51.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContentService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\ContentService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\ContentService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\ContentService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\ContentService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAEwFIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:51:36.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsmanService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\SportsmanService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\SportsmanService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\SportsmanService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\SportsmanService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAASwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:44:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessOwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\BusinessOwnerService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\BusinessOwnerService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\BusinessOwnerService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\BusinessOwnerService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAA8wKwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:28:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessOwner.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\BusinessOwner.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\BusinessOwner.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\BusinessOwner.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\BusinessOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:27:56.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "centralizeddata.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\centralizeddata.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\centralizeddata.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\centralizeddata.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\centralizeddata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:43:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\EventService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\EventService.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAMwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:39:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\FunctionController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\FunctionController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\FunctionController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\FunctionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:48:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserPartnership.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\UserPartnership.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\UserPartnership.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\UserPartnership.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\UserPartnership.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:38:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntertainerService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\EntertainerService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\EntertainerService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\EntertainerService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\EntertainerService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA9wFIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:51:14.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\UserService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\UserService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv24AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:49:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessOwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\BusinessOwnerController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\BusinessOwnerController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\BusinessOwnerController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\BusinessOwnerController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv9IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:28:27.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\LogIn.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\LogIn.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\LogIn.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\LogIn.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:01:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\EventController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:47:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SportsmanController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\SportsmanController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\SportsmanController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\SportsmanController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\SportsmanController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAMwMsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:44:11.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogInService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\LogInService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\LogInService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\LogInService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\LogInService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:02:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EntertainerController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\EntertainerController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\EntertainerController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\EntertainerController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\EntertainerController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAmwNMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:50:55.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAwwAQBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:02:34.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PartnershipController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\PartnershipController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\PartnershipController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\PartnershipController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\PartnershipController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:58:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:58:12.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:58:06.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\MembershipController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\MembershipController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\MembershipController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\MembershipController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA0wDcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:41:56.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:31:41.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Function.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Function.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Function.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:52:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IfileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\IfileStorageService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\IfileStorageService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\IfileStorageService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\IfileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:54:33.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaternshipService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\PaternshipService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\PaternshipService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\PaternshipService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\PaternshipService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowFEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:54:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\MembershipService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\MembershipService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\MembershipService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:43:17.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CounterService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\CounterService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\CounterService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\CounterService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\CounterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:04:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LogInModel.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\LogInModel.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\LogInModel.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\LogInModel.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\LogInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:06:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:54:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserPartnershipController.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\UserPartnershipController.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Controllers\\UserPartnershipController.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Controllers\\UserPartnershipController.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Controllers\\UserPartnershipController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:44:21.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RSVPs.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\RSVPs.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\RSVPs.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\RSVPs.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\RSVPs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:09:36.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Program.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Program.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:36:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MobileBackendTest1.http",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\MobileBackendTest1.http",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\MobileBackendTest1.http",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\MobileBackendTest1.http",
+              "RelativeToolTip": "MobileBackendTest1\\MobileBackendTest1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-26T00:43:12.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Partnership.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Partnership.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Partnership.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Partnership.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Partnership.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:48:04.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\appsettings.json",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\appsettings.json",
+              "RelativeToolTip": "MobileBackendTest1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T03:44:55.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PatnershipDto.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\PatnershipDto.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\PatnershipDto.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\PatnershipDto.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\PatnershipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:19:21.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MemberShip.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\MemberShip.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\MemberShip.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\MemberShip.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\MemberShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:41:24.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Models\\Notification.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:38:05.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MobileBackendTest1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T21:31:32.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MongoDbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\MongoDbHelper.cs",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\Services\\MongoDbHelper.cs",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\Services\\MongoDbHelper.cs",
+              "RelativeToolTip": "MobileBackendTest1\\Services\\MongoDbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:59:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\appsettings.Development.json",
+              "RelativeToolTip": "MobileBackendTest1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T20:27:09.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MobileBackendTest1.csproj",
+              "DocumentMoniker": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\MobileBackendTest1.csproj",
+              "RelativeDocumentMoniker": "MobileBackendTest1\\MobileBackendTest1.csproj",
+              "ToolTip": "C:\\Users\\ranap\\source\\repos\\MobileBackendTest1\\MobileBackendTest1\\MobileBackendTest1.csproj",
+              "RelativeToolTip": "MobileBackendTest1\\MobileBackendTest1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T20:49:00.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
